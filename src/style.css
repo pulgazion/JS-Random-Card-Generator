@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+.card {
+  margin: auto;
+  height: 400px;
+  width: 310px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.symbolCard {
+  font-size: 80px;
+  line-height: 80%;
+  padding: 10px;
+}
+
+.numberCard {
+  font-size: 120px;
+  line-height: 80%;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 50px;
+}
